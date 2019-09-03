@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hiynn-design-landing/precache-manifest.64f5916c13eddfc2965d6f347865da0b.js"
+  "/hiynn-design-landing/precache-manifest.4f057f9314cf4438a70cdbd80dbff83e.js"
 );
 
 self.addEventListener('message', (event) => {
