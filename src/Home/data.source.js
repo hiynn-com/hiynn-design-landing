@@ -32,7 +32,7 @@ export const Nav00DataSource = {
         name: "item1",
         className: "header0-item",
         children: {
-          href: "https://hiynn-com.github.io/hiynn-design/introduction",
+          href: "https://hiynn-com.github.io/hiynn-design/docs/introduction",
           children: [
             {
               children: (
@@ -107,7 +107,7 @@ export const Banner30DataSource = {
             <p>开始使用</p>
           </>
         ),
-        href: "https://hiynn-com.github.io/hiynn-design/introduction",
+        href: "https://hiynn-com.github.io/hiynn-design/docs/introduction",
         type: "primary"
       },
       {

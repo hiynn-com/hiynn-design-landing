@@ -2,6 +2,7 @@
   "name": "hiynn-design-landing",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://hiynn-com.github.io/hiynn-design-landing/",
   "dependencies": {
     "antd": "^3.23.0",
     "enquire-js": "^0.2.1",
@@ -11,13 +12,16 @@
     "rc-tween-one": "^2.6.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.1"
   },
   "scripts": {
     "start": "react-app-rewired start",
-    "build": "react-app-rewired build",
+    "build": "react-app-rewired build --env=jsdom",
     "test": "react-app-rewired test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "yarn build && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -37,6 +41,7 @@
   "devDependencies": {
     "babel-plugin-import": "^1.12.1",
     "customize-cra": "^0.5.0",
+    "gh-pages": "^2.1.1",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
     "react-app-rewired": "^2.1.3"
