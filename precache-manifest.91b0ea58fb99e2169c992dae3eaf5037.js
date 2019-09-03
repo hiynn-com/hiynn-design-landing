@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1473a0d4880a1f7a1697e024a0726bc",
+    "revision": "3300731ca43a7f0d14c633576675eded",
     "url": "/hiynn-design-landing/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hiynn-design-landing/static/css/2.5a3f7f51.chunk.css"
   },
   {
-    "revision": "b86b4f2762f5e4329747",
+    "revision": "ce2822ec8487d71a631a",
     "url": "/hiynn-design-landing/static/css/main.6dfa8843.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hiynn-design-landing/static/js/2.5f553d26.chunk.js"
   },
   {
-    "revision": "b86b4f2762f5e4329747",
-    "url": "/hiynn-design-landing/static/js/main.f2ef6322.chunk.js"
+    "revision": "ce2822ec8487d71a631a",
+    "url": "/hiynn-design-landing/static/js/main.3e9233ab.chunk.js"
   },
   {
     "revision": "4e7629056066b64f83e4",
