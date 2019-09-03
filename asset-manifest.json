@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hiynn-com/hiynn-design-landing/static/css/main.6dfa8843.chunk.css",
-    "main.js": "/hiynn-com/hiynn-design-landing/static/js/main.247dffba.chunk.js",
-    "main.js.map": "/hiynn-com/hiynn-design-landing/static/js/main.247dffba.chunk.js.map",
-    "runtime~main.js": "/hiynn-com/hiynn-design-landing/static/js/runtime~main.d038274b.js",
-    "runtime~main.js.map": "/hiynn-com/hiynn-design-landing/static/js/runtime~main.d038274b.js.map",
-    "static/css/2.5a3f7f51.chunk.css": "/hiynn-com/hiynn-design-landing/static/css/2.5a3f7f51.chunk.css",
-    "static/js/2.3c31a543.chunk.js": "/hiynn-com/hiynn-design-landing/static/js/2.3c31a543.chunk.js",
-    "static/js/2.3c31a543.chunk.js.map": "/hiynn-com/hiynn-design-landing/static/js/2.3c31a543.chunk.js.map",
-    "index.html": "/hiynn-com/hiynn-design-landing/index.html",
-    "precache-manifest.0acfb6dda46759c0cf066a6fb7fd3b29.js": "/hiynn-com/hiynn-design-landing/precache-manifest.0acfb6dda46759c0cf066a6fb7fd3b29.js",
-    "service-worker.js": "/hiynn-com/hiynn-design-landing/service-worker.js",
-    "static/css/2.5a3f7f51.chunk.css.map": "/hiynn-com/hiynn-design-landing/static/css/2.5a3f7f51.chunk.css.map",
-    "static/css/main.6dfa8843.chunk.css.map": "/hiynn-com/hiynn-design-landing/static/css/main.6dfa8843.chunk.css.map"
+    "main.css": "./static/css/main.6dfa8843.chunk.css",
+    "main.js": "./static/js/main.0c1edab0.chunk.js",
+    "main.js.map": "./static/js/main.0c1edab0.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.3ab1d68f.js",
+    "runtime~main.js.map": "./static/js/runtime~main.3ab1d68f.js.map",
+    "static/css/2.5a3f7f51.chunk.css": "./static/css/2.5a3f7f51.chunk.css",
+    "static/js/2.4d9a6a1c.chunk.js": "./static/js/2.4d9a6a1c.chunk.js",
+    "static/js/2.4d9a6a1c.chunk.js.map": "./static/js/2.4d9a6a1c.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.e66c827529f552235ab9bdc6a6fc3952.js": "./precache-manifest.e66c827529f552235ab9bdc6a6fc3952.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.5a3f7f51.chunk.css.map": "./static/css/2.5a3f7f51.chunk.css.map",
+    "static/css/main.6dfa8843.chunk.css.map": "./static/css/main.6dfa8843.chunk.css.map"
   }
 }
